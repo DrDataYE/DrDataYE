@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 Connect with me to collaborate on exciting projects, discuss cybersecurity strategies, and dive into the world of coding. Let's make the digital realm safer and more efficient together!
 
 Get in touch:
+💬 Telegram: [MyTelegram](https://t.me/DrdataYE)
 🌐 Website: www.cyber1101.com
 
 
