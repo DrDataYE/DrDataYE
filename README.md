@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- 2022 10 27 | 12:02 - 12000 -->
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=muath-ye&label=221,027|1202&color=0e75b6&style=flat" alt="Muathye" />
+    <img src="https://komarev.com/ghpvc/?username=DrDataYE&label=221,027|1202&color=0e75b6&style=flat" alt="Muathye" />
     <img src="https://wakatime.com/badge/user/caa98403-bf58-4655-a14f-0e8425d6225b.svg" alt="Total time coded since May 26 2022" />
 </p>
 
