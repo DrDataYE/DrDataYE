@@ -74,13 +74,13 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <details align="center">
-<summary> <b> <samp> Chess Tournament On My Profile ♟️ </samp></b></summary>
+<summary> <b> <samp> Some Fun Stats On My Profile </samp></b></summary>
 <samp>
 <div align='center'>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=header)
 
-# Chess Tournament On My Profile
+# Some Fun Stats On My Profile
 
 ## just a Introduction: 
 
