@@ -69,9 +69,9 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Django, REST API**
 
-- 📫 How to reach me **drdataye@gmail.com**
+- 📫 How to reach me **drdataye@gmail.com**<br><br>
 <div>
-</details><br><br>
+</details>
 
 <details align="center">
 <summary> <b> <samp> Chess Tournament On My Profile ♟️ </samp></b></summary>
