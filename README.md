@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 <details align="center">
 <summary> <b> <samp> My Profile 🟡 </samp></b></summary>
 
-<div align='center'>
+<div>
 
 ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
