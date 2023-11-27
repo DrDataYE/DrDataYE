@@ -24,13 +24,13 @@ You can click the Preview link to take a look at your changes.
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
 
-<a align='center' href='https://twitter.com/muathye'>
+<a align='center' href=''>
     <p align="center">
         <img width='100%' src='https://github.com/muath-ye/muath-ye/raw/master/img/banner.svg' />
     </p>
 </a>
 
-<a align='center' href='https://wakatime.com/@muathye'>
+<a align='center' href=''>
     <p align="center">
         <img width='100%' src='https://wakatime.com/share/@muathye/a8930a67-96a2-428a-9d1b-bf362372e755.svg' />
     </p>
