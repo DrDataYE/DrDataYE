@@ -48,14 +48,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<details align="center">
-<div>
-</details>
 
-<details align="center">
-<summary> <b> <samp> Some Fun Stats On My Profile </samp></b></summary>
-<samp>
-<div align='center'>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=header)
 
@@ -114,6 +108,4 @@ ___
 
 ### 🐍 Watch Snake eating my contribution :
 ![snake svg](https://github.com/shadowYEM/shadowYEM/blob/e8128c67d6f1dc57c5e98bfcc1d894a9d10d1129/github-user-contribution.svg)
-</samp>
-</details>
 
