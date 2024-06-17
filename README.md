@@ -28,11 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a align='center' href=''>
-    <p align="center">
-        <img width='100%' src='https://wakatime.com/share/@muathye/a8930a67-96a2-428a-9d1b-bf362372e755.svg' />
-    </p>
-</a>
 
 <!-- 2022 10 27 | 12:02 - 12000 -->
 <p align="center">
@@ -40,12 +35,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://wakatime.com/badge/user/caa98403-bf58-4655-a14f-0e8425d6225b.svg" alt="Total time coded since May 26 2022" />
 </p>
 
-
-
-
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=header)
 
 # Some Fun Stats On My Profile
 
