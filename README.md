@@ -26,11 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a align='center' href=''>
-    <p align="center">
-        <img width='100%' src='https://github.com/muath-ye/muath-ye/raw/master/img/banner.svg' />
-    </p>
-</a>
+
 
 <a align='center' href=''>
     <p align="center">
