@@ -9,7 +9,13 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+### 🌐 Web | 📱 App | 💻 Software | 🔒 Cybersecurity
+- 🔭 Exploring new technologies and pushing the boundaries of what's possible.
+- 🧠 Crafting elegant code while ensuring top-notch security measures.
+- 💡 Transforming ideas into functional and user-friendly applications.
+- 🌟 Constantly learning and staying updated in the ever-evolving tech landscape.
 
+###
 
 # Some Fun Stats On My Profile
 
