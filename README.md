@@ -96,7 +96,6 @@ ___
 
 
 ## Open Source 
-| [![Shell + GPT](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrGPT&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrGPT) | [![Web Exploit](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&theme=dark&repo=DrXploit&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrXploit) |
 | [![Shell + GPT](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrGPT&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrGPT) | [![Web Exploit](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrXploit&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrXploit) |
 | [![DrDos](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrDos&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrDos) | [![DrShell](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrShell&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrShell) |
 | [![LargeGPT](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=LargeGPT&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/LargeGPT) | [![DrMac](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrMac&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrMac) |
