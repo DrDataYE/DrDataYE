@@ -94,3 +94,7 @@ ___
 ### 🐍 Watch Snake eating my contribution :
 ![snake svg](https://github.com/shadowYEM/shadowYEM/blob/e8128c67d6f1dc57c5e98bfcc1d894a9d10d1129/github-user-contribution.svg)
 
+
+## Open Source 
+| [![Shell + GPT](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=hear_quran_app&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrGPT) | [![Web Exploit](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&theme=dark&repo=Free-GPT&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrXploit) |
+|---|---|
