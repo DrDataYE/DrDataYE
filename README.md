@@ -1,6 +1,5 @@
 ## Hello, I'm [ DrData ] :raised_hand_with_fingers_splayed:
 
-
 👨‍💻 DrDataYE - Programmer | Developer | Cybersecurity Expert 👨‍💻
 
 Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity, I'm dedicated to building robust and secure software.
@@ -15,8 +14,9 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 Connect with me to collaborate on exciting projects, discuss cybersecurity strategies, and dive into the world of coding. Let's make the digital realm safer and more efficient together!
 
 Get in touch:
-💬 Telegram: [MyTelegram](https://t.me/DrdataYE)
-🌐 Website: www.cyber1101.com
+[![Telegram Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me//LinuxArabe)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.cyber1101.com)
+
 
 
 <!---
