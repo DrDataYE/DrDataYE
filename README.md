@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 ### 😺 Github Streak 
 <h3 align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=DrDataYE&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&&bg_color=00000000" alt="DrDataYE Streak Stats"/>
+  <img align="center" src="https://streak-stats.demolab.com?username=DrDataYE&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=true&bg_color=00000000" alt="DrDataYE Streak Stats"/>
 </h3>
 
 ### 🍁 My Skill stack :
