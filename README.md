@@ -33,7 +33,9 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 
 
 ### 😺 Github Streak 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DrDataYE&theme=gruvbox&background=1A0505FB(https://git.io/streak-stats)) 
+<h3 align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=DrDataYE&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&&bg_color=00000000" alt="DrDataYE Streak Stats"/>
+</h3>
 
 ### 🍁 My Skill stack :
 
