@@ -67,6 +67,8 @@ ___
 ![Committers](https://user-badge.committers.top/yemen/DrDataYE.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=DrDataYE&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/DrDataYE?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=DrDataYE&color=blue&style=flat-square)
+
 
 ### 🤝 Connect with me:
 
