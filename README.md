@@ -96,5 +96,5 @@ ___
 
 
 ## Open Source 
-| [![Shell + GPT](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=hear_quran_app&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrGPT) | [![Web Exploit](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&theme=dark&repo=Free-GPT&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrXploit) |
+| [![Shell + GPT](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrGPT&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrGPT) | [![Web Exploit](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&theme=dark&repo=DrXploit&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrXploit) |
 |---|---|
