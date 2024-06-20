@@ -1,8 +1,52 @@
-## Hello, I'm [ DrData ] :raised_hand_with_fingers_splayed:
-
 <p align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 </p>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 50px;
+        }
+        .typewriter {
+            display: inline-block;
+            border-right: 2px solid black;
+            white-space: nowrap;
+            overflow: hidden;
+            animation: typing 3s steps(30, end), blink-caret 0.5s step-end infinite;
+        }
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+        @keyframes blink-caret {
+            from, to { border-color: transparent; }
+            50% { border-color: black; }
+        }
+    </style>
+</head>
+<body>
+
+<h2 class="typewriter" id="typewriter"></h2>
+
+<script>
+    const text = "## Hello, I'm [ DrData ] :raised_hand_with_fingers_splayed:\n\nWelcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity, I'm dedicated to building robust and secure software.\n\n### 🌐 Web | 📱 App | 💻 Software | 🔒 Cybersecurity\n\n- 🔭 Exploring new technologies and pushing the boundaries of what's possible.\n- 🧠 Crafting elegant code while ensuring top-notch security measures.\n- 💡 Transforming ideas into functional and user-friendly applications.\n- 🌟 Constantly learning and staying updated in the ever-evolving tech landscape.";
+
+    let i = 0;
+    function typeWriter() {
+        if (i < text.length) {
+            document.getElementById("typewriter").innerHTML += text.charAt(i);
+            i++;
+            setTimeout(typeWriter, 50);
+        }
+    }
+    typeWriter();
+</script>
+
+</body>
+
+## Hello, I'm [ DrData ] :raised_hand_with_fingers_splayed:
+
 
 
 Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity, I'm dedicated to building robust and secure software.
