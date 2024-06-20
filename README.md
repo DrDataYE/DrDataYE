@@ -66,7 +66,8 @@ ___
 ### ✌️ Some statistics:
 ![Committers](https://user-badge.committers.top/yemen/DrDataYE.svg)
 ![GitHub followers](https://img.shields.io/github/followers/DrDataYE?style=social)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrDataYE&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=DrDataYE&color=blue&style=flat-square)
+![Visitor Badge](https://visitorbadge.io/status?path=DrDataYE)
 
 
 ### 🤝 Connect with me:
