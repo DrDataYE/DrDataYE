@@ -21,13 +21,62 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 
 <div align="center">
   <h2>Billie Eilish Songs</h2>
-  <ul>
-    <li><a href="https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8" target="_blank">Bad Guy</a></li>
-    <li><a href="https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ" target="_blank">Lovely (with Khalid)</a></li>
-    <li><a href="https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m" target="_blank">Everything I Wanted</a></li>
-    <li><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1" target="_blank">Ocean Eyes</a></li>
-    <li><a href="https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT" target="_blank">Bury a Friend</a></li>
-  </ul>
+  <style>
+    .audio-player {
+      background-color: #f3f3f3;
+      border: 1px solid #e1e1e1;
+      border-radius: 10px;
+      padding: 20px;
+      width: 300px;
+      margin: 20px auto;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .audio-player p {
+      margin: 0;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    .audio-player audio {
+      width: 100%;
+      outline: none;
+      margin-top: 10px;
+    }
+  </style>
+  <div class="audio-player">
+    <p>Bad Guy</p>
+    <audio controls>
+      <source src="https://www.example.com/path/to/bad-guy.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  <div class="audio-player">
+    <p>Lovely (with Khalid)</p>
+    <audio controls>
+      <source src="https://www.example.com/path/to/lovely.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  <div class="audio-player">
+    <p>Everything I Wanted</p>
+    <audio controls>
+      <source src="https://www.example.com/path/to/everything-i-wanted.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  <div class="audio-player">
+    <p>Ocean Eyes</p>
+    <audio controls>
+      <source src="https://www.example.com/path/to/ocean-eyes.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  <div class="audio-player">
+    <p>Bury a Friend</p>
+    <audio controls>
+      <source src="https://www.example.com/path/to/bury-a-friend.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
 </div>
 
 
