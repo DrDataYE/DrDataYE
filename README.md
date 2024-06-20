@@ -19,15 +19,6 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 
 
 
-
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DrDataYE/DrDataYE/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
