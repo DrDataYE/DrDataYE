@@ -64,7 +64,7 @@ ___
 ___  
 
 ### ✌️ Some statistics:
-https://user-badge.committers.top/yemen/DrDataYE.svg
+![LinkedIn](https://user-badge.committers.top/yemen/DrDataYE.svg)
 
 ### 🤝 Connect with me:
 
