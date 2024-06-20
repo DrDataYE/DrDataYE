@@ -64,7 +64,9 @@ ___
 ___  
 
 ### ✌️ Some statistics:
-![LinkedIn](https://user-badge.committers.top/yemen/DrDataYE.svg)
+![Committers](https://user-badge.committers.top/yemen/DrDataYE.svg)
+![GitHub followers](https://img.shields.io/github/followers/DrDataYE?style=social)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrDataYE&show_icons=true)
 
 ### 🤝 Connect with me:
 
