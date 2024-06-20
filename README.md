@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+<h3>
+  <img  src="https://streak-stats.demolab.com?user=DrDataYE&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&&bg_color=00000000" alt="DrDataYE Streak Stats"/>
+</h3>
 ### 🌐 Web | 📱 App | 💻 Software | 🔒 Cybersecurity
 - 🔭 Exploring new technologies and pushing the boundaries of what's possible.
 - 🧠 Crafting elegant code while ensuring top-notch security measures.
