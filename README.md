@@ -1,5 +1,10 @@
 ## Hello, I'm [ DrData ] :raised_hand_with_fingers_splayed:
 
+<p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+</p>
+
+
 Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity, I'm dedicated to building robust and secure software.
 
 ### 🌐 Web | 📱 App | 💻 Software | 🔒 Cybersecurity
