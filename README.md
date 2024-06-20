@@ -3,9 +3,7 @@
 </p>
 
 
-## Hello, I'm [ DrData ] :raised_hand_with_fingers_splayed:
-
-
+# Hello, I'm [ DrData ] :raised_hand_with_fingers_splayed:
 
 Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity, I'm dedicated to building robust and secure software.
 
