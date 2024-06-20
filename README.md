@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?artist=Billie+Eilish&count=5" alt="Billie Eilish recently played"  />
 </div>
 
 ###
