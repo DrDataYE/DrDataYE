@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 
 
 ### 📊 Some Fun Stats:
-| ![DrDataYE GitHub stats](https://github-readme-stats.vercel.app/api?username=DrDataYE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My%20Stats&bg_color=00000000) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DrDataYE&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE)  |
+| ![DrDataYE GitHub stats](https://github-readme-stats.vercel.app/api?username=DrDataYE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=My%20Stats&bg_color=00000000) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DrDataYE&locale=en&hide_title=true&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE)  |
 |---|---|
 
 ### 😺 Github Streak 
