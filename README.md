@@ -67,8 +67,15 @@ ___
 ![Committers](https://user-badge.committers.top/yemen/DrDataYE.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=DrDataYE&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/DrDataYE?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=DrDataYE&color=blue&style=flat-square)
+## YouTube
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/CHANNEL_ID?style=social)
 
+## Instagram
+![Instagram Follow](https://img.shields.io/badge/follow-%40USERNAME-blue?style=social&logo=instagram)
+
+## Telegram
+![Telegram Channel](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram&style=social)
 
 ### 🤝 Connect with me:
 
