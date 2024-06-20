@@ -20,8 +20,16 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?artist=Billie+Eilish&count=5" alt="Billie Eilish recently played"  />
+  <h2>Billie Eilish Songs</h2>
+  <ul>
+    <li><a href="https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8" target="_blank">Bad Guy</a></li>
+    <li><a href="https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ" target="_blank">Lovely (with Khalid)</a></li>
+    <li><a href="https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m" target="_blank">Everything I Wanted</a></li>
+    <li><a href="https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1" target="_blank">Ocean Eyes</a></li>
+    <li><a href="https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT" target="_blank">Bury a Friend</a></li>
+  </ul>
 </div>
+
 
 ###
 
