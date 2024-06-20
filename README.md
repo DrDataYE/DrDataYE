@@ -31,35 +31,6 @@ Welcome to my GitHub profile! I'm DrDataYE, a passionate programmer and skilled 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DrDataYE/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
@@ -136,6 +107,9 @@ ___
  [![LargeGPT](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=LargeGPT&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/LargeGPT)  [![DrMac](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrMac&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrMac) 
  [![DrCrypt](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrCrypt&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrCrypt)  [![DrScan](https://github-readme-stats.vercel.app/api/pin/?username=DrDataYE&repo=DrScan&theme=dark&hide_border=true&bg_color=00000000)](https://github.com/DrDataYE/DrScan) 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DrDataYE/count.svg?"  />
+</div>
 
 ### 🐍 Watch Snake eating my contribution :
 ![snake svg](https://github.com/shadowYEM/shadowYEM/blob/e8128c67d6f1dc57c5e98bfcc1d894a9d10d1129/github-user-contribution.svg)
