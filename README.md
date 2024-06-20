@@ -67,21 +67,16 @@ ___
 ![Committers](https://user-badge.committers.top/yemen/DrDataYE.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=DrDataYE&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/DrDataYE?style=social)
-## YouTube
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/CHANNEL_ID?style=social)
-
-## Instagram
-![Instagram Follow](https://img.shields.io/badge/follow-%40USERNAME-blue?style=social&logo=instagram)
-
-## Telegram
-![Telegram Channel](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram&style=social)
 
 ### 🤝 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DrDataYE)
+<--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DrDataYE)-->
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DrDataYE)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrDataYE)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DrDataYE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/DrDataYE)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DrDataYE)
+
 
 
 
